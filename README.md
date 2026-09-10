@@ -1,2 +1,6 @@
 # anz-bil-subscriptions-search-indexer-webapp
-billing / critical / anz
+
+Team: **billing**  
+Tier: **critical**  
+Region: **anz**  
+Synthetic demo repo for the Domo governance platform.
